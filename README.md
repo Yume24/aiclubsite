@@ -4,6 +4,10 @@ Welcome to the **AI Club Practice Website** — a sample site designed to showca
 
 ---
 
+[**Click here**](https://yume24.github.io/aiclubsite/) to visit the site!
+
+---
+
 ## 🌐 Overview
 
 This repository contains:
